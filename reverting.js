@@ -9,3 +9,5 @@ for (var i=0; i<n.length;i++){
 }
 console.log("first");
 console.log("second");
+console.log("third");
+
